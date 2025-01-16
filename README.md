@@ -3,9 +3,7 @@
 Projeto desenvolvido com os dados abertos disponibilizados no Kaggle
 * [kaggle dataset and infos](https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center)
 
-![Company Logo](![Image](https://github.com/user-attachments/assets/59682c66-edc4-4c76-ba6e-d2706cd8200e))
-
-
+![Company Logo](img/dataset-cover.jpeg)
 
 ## OBJECTIVE
 
