@@ -2,7 +2,7 @@
 
 SELECT 
 	t1.payment_status,
-	ROUND(CAST(AVG(t1.payment_amount) AS NUMERIC), 2) AS 
+	ROUND(CAST(AVG(t1.payment_amount) AS NUMERIC), 2) AS avg_chargeback_amout
 
 FROM project.tb_payments AS t1
 

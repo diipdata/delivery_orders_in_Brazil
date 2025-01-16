@@ -8,4 +8,4 @@ FROM project.tb_payments AS t1
 
 GROUP BY t1.payment_method
 
-ORDER BY t1.payment_method DESC
+ORDER BY ROUND(CAST(AVG(t1.payment_amount) AS NUMERIC), 2) DESC
